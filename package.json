@@ -2,7 +2,7 @@
   "name": "simple-express-code",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "dependencies": {
     "axios": "^0.21.1",
     "console-stamp": "^3.0.2",
@@ -15,7 +15,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
